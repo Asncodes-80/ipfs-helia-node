@@ -1,0 +1,17 @@
+{
+  "name": "ipfs-helia-node",
+  "version": "1.0.0",
+  "description": "A Simple IPFS Data Read and Write",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@helia/unixfs": "^3.0.6",
+    "helia": "^4.2.3"
+  }
+}
